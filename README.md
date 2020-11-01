@@ -3,7 +3,8 @@
 <!--
 **lu-anderson/lu-anderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Olá, eu sou o Luanderson, seja bem vindo ao meu GitHub. Sou professor de formação e de paixão, formado em Licenciatura em Matemática pela Universidade do Estado de Mato Grosso (UNEMAT). Atualmente sou freelancer como desenvolverdor Full Stack, com a Stack de JavaScript (ReacJS, React-Native em NodeJS). Toda a minha formação em desenvolvimento de softwares vem do meu entusiasmo em tecnologia que me da motivação para ser autodidata e buscar conhecimento. Meu maior projeto foi uma aplicação completa que se chama 'Agiliza Prof'. Nessa aplicação eu constriu uma site em ReactJS, um aplicativo em React-Native e uma API REST em NodeJS usando a biblioteca Express. Essa aplicação tem como finalizade facilitar o lançamento de avalição, conteúdo e presença de alunos do estado de Mato-Grosso(MT). Eu trabalhei como professor de Matemática do ensino fundamental na rede estadual durante dois anos, e nesse período eu tinha que fazer os lançamentos no site do governo e era muito tedioso pois o site é arcaico e pouco intuitivo. Meu colegas de trabalho passavam horas e horas fazendo o lançamento e com muita dificuldade pois a maiora são imigrantes digitais e não possuem muita facilidade com as novas tecnologias. Eu utilizei a biblioteca 'Selenium-Webdriver' na versão de javascript para fazer a automação dos lançamentos no site do governo (não sei se isso é ilegal, se for por favor me avise).
+Nas ultimas semanas estou trabalhando com a criação de bots e scraping no instagram.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
